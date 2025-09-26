@@ -23,6 +23,8 @@ The goal of this project is to explore **sales trends, customer behavior, and pr
 
 --- 
 <img width="623" height="370" alt="image" src="https://github.com/user-attachments/assets/5288dff5-29d2-41bc-9db7-4d23f267bf58" />
+<img width="604" height="158" alt="image" src="https://github.com/user-attachments/assets/e0b5ed58-b1bf-4d92-84f2-7373f0d13dee" />
+
 
 
 ## How to Use
