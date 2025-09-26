@@ -21,7 +21,9 @@ The goal of this project is to explore **sales trends, customer behavior, and pr
   - Conditional Formatting  
   - Basic Formulas  
 
----
+--- 
+<img width="623" height="370" alt="image" src="https://github.com/user-attachments/assets/5288dff5-29d2-41bc-9db7-4d23f267bf58" />
+
 
 ## How to Use
 1. Download or clone this repository.  
